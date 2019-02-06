@@ -1,2 +1,3 @@
-# 2019-MS-RUG-shiny-extensions
- Slides from my talk on shiny "extension packages" for the Münster R User Group (5th Feb 2019)
+Slides from my talk, "Don’t reinvent the wheel: making use of shiny extension packages", at a Münster R User Group <a href="https://www.meetup.com/Munster-R-Users-Group/events/257889907/" target="_blank">event</a>.
+
+The slides contain links and images related to various packages, but without much other background information. I'll cover the same topic as part of my week on the <a href="https://twitter.com/WeAreRLadies" target="_blank">R-Ladies Rotating Curator account</a>.
